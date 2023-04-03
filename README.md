@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+![image](https://user-images.githubusercontent.com/72302390/229621476-c5b1abc5-2cc0-4a31-8514-be8eb7093722.png)
+</p>
+<p align="center">
+<b><i>I am Ramya Sree.<br>
+I graduated from NIT Andhra Pradesh and work as a Backend Software Engineer.<br>
+You can find my hobby projects here :)</i></b>
+</p>
 
 <!--
 **ramyasree012/ramyasree012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
