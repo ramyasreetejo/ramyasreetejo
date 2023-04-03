@@ -1,23 +1,8 @@
-<p align="center">
-![image](https://user-images.githubusercontent.com/72302390/229621476-c5b1abc5-2cc0-4a31-8514-be8eb7093722.png)
-</p>
+
+<h1 font-family: 'Dancing Script', cursive; align="center"> Hi There👋</h1>
+
 <p align="center">
 <b><i>I am Ramya Sree.<br>
 I graduated from NIT Andhra Pradesh and work as a Backend Software Engineer.<br>
 You can find my hobby projects here :)</i></b>
 </p>
-
-<!--
-**ramyasree012/ramyasree012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
