@@ -2,8 +2,8 @@
 
 <p align="center">
   <b><i>
-    I am Ramya Sree Tejomurtula.<br>
-    I'm a Software Engineer and a 2022 graduate from NIT Andhra Pradesh.<br>
-    You can find my hobby projects here :)
+    I’m Ramya Sree Tejomurtula, a backend-focused Software Engineer and a graduate from NIT Andhra Pradesh.<br>
+    I love building projects that make sense to me and spark my curiosity.<br>
+    Explore some of my hobby projects here :)<br>
   </i></b>
 </p>
